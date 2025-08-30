@@ -9,5 +9,5 @@ O desafio foi proposto pelo professor Messias Batista no curso de Sistemas para 
 ## Visualização
 ![Fluxograma](Diagrama-Amazon.jpg)
 
->Professor: Messias Batista
->Curso: Sistemas para Internet - UNIESP
+>Professor: Messias Batista | 
+> Curso: Sistemas para Internet - UNIESP
