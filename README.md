@@ -1,4 +1,4 @@
-# Fluxograma_Projeto_Amazon
+# Fluxograma Projeto Amazon
 
 Projeto desenvolvido para a disciplina de Introdução a Programação do professor Messias Batista.
 
